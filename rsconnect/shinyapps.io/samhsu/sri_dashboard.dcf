@@ -1,0 +1,14 @@
+name: sri_dashboard
+title: sri_dashboard
+username:
+account: samhsu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7981961
+bundleId: 7103558
+url: https://samhsu.shinyapps.io/sri_dashboard/
+when: 1681809685.11385
+lastSyncTime: 1681809685.11388
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: archive/app.R|server_202201050149.R|testing.R

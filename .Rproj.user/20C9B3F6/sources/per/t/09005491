@@ -1,0 +1,26 @@
+{
+    "id": "09005491",
+    "path": "C:/Users/yuehy/Dropbox/SRI Data/Master Dataset/dashboard/global.R",
+    "project_path": "global.R",
+    "type": "r_source",
+    "hash": "3742519226",
+    "contents": "",
+    "dirty": false,
+    "created": 1647369392955.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,55",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1669212844,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669212844420,
+    "read_only": false,
+    "read_only_alternatives": []
+}
